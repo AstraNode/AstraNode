@@ -48,7 +48,7 @@ Spotify
 -->
 
 <div align="center">
-  <a href="https://t.me/proyato" target="_blank">
+  <a href="https://t.me/naapaextra" target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31wf4eiltwgxxzm65hbbdnpf4xru&count=1&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
