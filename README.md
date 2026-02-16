@@ -19,7 +19,7 @@ Hehe~ another cutie has been caught stalking my profile 😏.
 <!-- <br><br><br><br> -->
 
 <p align="center">
-  <a href="https://t.me/naapaextraa"><img src="[https://graph.org/file/31edefa519fdb5db27b30.jp](https://i.pinimg.com/1200x/13/41/45/13414519583c03a8576b45d6171c11c9.jpg)g"></a>
+  <a href="https://t.me/naapaextraa"><img src="https://graph.org/file/31edefa519fdb5db27b30.jpg"></a>
     </p>
 <p align="center">
 
@@ -31,7 +31,7 @@ Hehe~ another cutie has been caught stalking my profile 😏.
 <h1>ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22"></h1>
   
 
-[<img src="https://github-readme-stats.vercel.app/api?username=AstraNode&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/AstraNode) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=AstraNode&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/AstraNode)
+[<img src="https://github-readme-streak-stats.herokuapp.com/?user=AstraNode&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/AstraNode)
     
 
     
